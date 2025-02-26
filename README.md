@@ -1,3 +1,4 @@
+**FPGA Implementation of a Neural Network Neuron**
 This project implements a single artificial neuron using Verilog and synthesizes it for an FPGA using Xilinx Vivado. The neuron follows a perceptron-like structure with fixed-point arithmetic and performs a weighted sum of inputs followed by a ReLU activation function. The weights and bias are dynamically loaded from an external file, allowing flexibility in training the neuron separately. 
 
 **Feature**
